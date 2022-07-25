@@ -1,4 +1,4 @@
-package org.wholenesswithin.zen
+package com.example.zen
 
 import io.flutter.embedding.android.FlutterActivity
 
